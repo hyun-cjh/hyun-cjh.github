@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-image: url(../img/bgm.png);
+}
+
+.mm {
+  background-image: url(../img/bgmm.png);
+  height: 260px;
+  background-size: cover;
+}
+
+.footer {
+  height: 260px;
+  background-image: url(../img/bgb.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
